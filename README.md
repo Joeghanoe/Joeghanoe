@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joeghanoe
-- 👀 I’m a Fullstack Web Developer
-- 🌱 I’m currently learning Azure Cloud and C#
+- 👀 I’m a Cloud Solution Developer
+- 🌱 Working on Azure Cloud, C# and TypeScript project(s)
 - 📫 You can find me on [instagram](https://www.instagram.com/jo_bhti/)
 
 <!---
